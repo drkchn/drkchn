@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there, I'm Derek 👋
+
+- 📚 Currently studying computer science at the University of Pennsylvania  
+- 👾 Favorite programming languages are Python, Java, and C  
+- 🥇 One life goal of mine is to run in a Marathon (already ran in a Half Marathon, so we're halfway there!)
 
 <!--
 **drkchn/drkchn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
