@@ -4,6 +4,18 @@
 - 👾 Favorite programming languages are Python, Java, and C  
 - 🥇 One life goal of mine is to run in a Marathon (already ran in a Half Marathon, so we're halfway there!)
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=drkchn&show_icons=true&theme=tokyonight"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=drkchn&show_icons=true&theme=synthwave"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=drkchn&show_icons=true" />
+</picture>
+
 <!--
 **drkchn/drkchn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
