@@ -6,14 +6,14 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=drkchn&show_icons=true&theme=tokyonight"
+    srcset="https://github-readme-stats-drkchn.vercel.app/api?username=drkchn&show_icons=true&theme=tokyonight&include_all_commits=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=drkchn&show_icons=true&theme=synthwave"
+    srcset="https://github-readme-stats-drkchn.vercel.app/api?username=drkchn&show_icons=true&theme=synthwave&include_all_commits=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=drkchn&show_icons=true" />
+  <img src="https://github-readme-stats-drkchn.vercel.app/api?username=drkchn&show_icons=true&include_all_commits=true" />
 </picture>
 
 <!--
