@@ -4,7 +4,7 @@
 - 📚 Currently studying computer science at the University of Pennsylvania
 - 🛠️ [Contributed](https://github.com/DFG-SAPSE/SEMS) to open-source projects in React Native and JavaScript
 - 💞 Favorite programming language: Python
-- 👾 My *"non-favorite"* programming languages aka. other languages I know: Java, C, JavaScript/TypeScript, SQL
+- 👾 Other programming languages I know: Java, C, JavaScript/TypeScript, SQL
 - 🧠 Learning Go (Golang) and building an interpreter in Go
 - 🥇 One life goal of mine is to run in a Marathon (already ran in a Half Marathon, so we're halfway there!)
 
