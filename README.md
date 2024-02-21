@@ -1,5 +1,5 @@
 ## Hi there, I'm Derek 👋
-
+![](https://komarev.com/ghpvc/?username=drkchn&abbreviated=true&label=visitors&style=for-the-badge&color=blue)
 - 👨‍💻 Full-stack software engineer
 - 📚 Currently studying computer science at the University of Pennsylvania
 
@@ -28,6 +28,8 @@
   />
   <img src="https://github-readme-stats-drkchn.vercel.app/api?username=drkchn&show_icons=true&include_all_commits=true" />
 </picture>
+
+![](https://hit.yhype.me/github/profile?user_id=57195399)
 
 <!--
 **drkchn/drkchn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
