@@ -2,11 +2,20 @@
 
 - 👨‍💻 Full-stack software engineer
 - 📚 Currently studying computer science at the University of Pennsylvania
+
+### Selected Projects
 - 🛠️ [Contributed](https://github.com/DFG-SAPSE/SEMS) to open-source projects in React Native and JavaScript
+- 🤩 Won Hackathons at [Stanford Treehacks](https://devpost.com/software/skin-ai-zlwdsy) in 2024 and two [Univ. of Pennsylvania](https://devpost.com/software/research-radar) [Hackathons](https://devpost.com/software/civic-central) in 2023
+
+### Skills
 - 💞 Favorite programming language: Python
 - 👾 Other programming languages I know: Java, C, JavaScript/TypeScript, SQL
+- 🚀 Tech Stack: React.js, Node.js, Flask, Material UI, NoSQL (Google Firebase), CockroachDB, Pandas, Docker, Linux
 - 🧠 Learning Go (Golang) and building an interpreter in Go
+
+### Fun facts
 - 🥇 One life goal of mine is to run in a Marathon (already ran in a Half Marathon, so we're halfway there!)
+- 🪢 Favorite algorithms: Kruskal’s (MSTs), D-separation (Bayes net) ---> Graphs are cool!
 
 <picture>
   <source
