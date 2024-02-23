@@ -4,7 +4,7 @@
 - 📚 Currently studying computer science at the University of Pennsylvania
 
 ### Selected Projects
-- 🛠️ [Contributed](https://github.com/DFG-SAPSE/SEMS) to open-source projects in React Native and JavaScript
+- 🛠️ [Contributed](https://github.com/DFG-SAPSE/SEMS) to projects in React Native and JavaScript at Develop for Good
 - 🤩 Won Hackathons at [Stanford Treehacks](https://devpost.com/software/skin-ai-zlwdsy) in 2024 and two [Univ. of Pennsylvania](https://devpost.com/software/research-radar) [Hackathons](https://devpost.com/software/civic-central) in 2023
 
 ### Skills
