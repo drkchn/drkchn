@@ -5,12 +5,12 @@
 
 ### Selected Projects
 - 🛠️ [Contributed](https://github.com/DFG-SAPSE/SEMS) to projects in React Native and JavaScript at Develop for Good
-- 🤩 Won Hackathons at [Stanford Treehacks](https://devpost.com/software/skin-ai-zlwdsy) in 2024 and two [Univ. of Pennsylvania](https://devpost.com/software/research-radar) [Hackathons](https://devpost.com/software/civic-central) in 2023
+- 🤩 Won Hackathons at [Stanford TreeHacks](https://devpost.com/software/skin-ai-zlwdsy) in 2024 and two [Univ. of Pennsylvania](https://devpost.com/software/research-radar) [Hackathons](https://devpost.com/software/civic-central) in 2023
 
 ### Skills
 - 💞 Favorite programming language: Python
 - 👾 Other programming languages I know: Java, C, JavaScript/TypeScript, SQL
-- 🚀 Tech Stack: React.js, Node.js, Flask, Material UI, NoSQL (Google Firebase), CockroachDB, Pandas, Docker, Linux
+- 🚀 Tech Stack: Linux, Docker, React.js, Node.js, AWS (EMR), Flask, Material UI, NoSQL (Google Firebase), CockroachDB, Pandas
 - 🧠 Learning Go (Golang) and building an interpreter in Go
 
 ### Fun facts
