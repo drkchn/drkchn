@@ -1,5 +1,5 @@
 ## Hi there, I'm Derek 👋
-![](https://komarev.com/ghpvc/?username=drkchn&abbreviated=true&label=visitors&style=for-the-badge&color=blue)
+![](https://komarev.com/ghpvc/?username=drkchn&label=visitors&style=for-the-badge&color=blue)
 - 👨‍💻 Full-stack software engineer
 - 📚 Currently studying computer science at the University of Pennsylvania
 
